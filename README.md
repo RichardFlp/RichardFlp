@@ -1,7 +1,11 @@
-# 💫 About Me:
-Just a fat ass 17 year old dev from Armenia who likes human ponies (AKA Umas)
-https://media.tenor.com/rdG_xBMCVkkAAAAj/agnes-tachyon-tachyon.gif
+<img src="https://media.tenor.com/rdG_xBMCVkkAAAAj/agnes-tachyon-tachyon.gif" width="100%" />
 
+# 💫 About Me:
+17-year-old developer from Armenia building random things on the internet.
+
+I like making software, experimenting with new technologies, breaking things, and occasionally making them work again.
+
+Also a huge fan of Uma Musume.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@richard.flpp) 

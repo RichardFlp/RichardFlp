@@ -1,5 +1,6 @@
 # 💫 About Me:
 Just a fat ass 17 year old dev from Armenia who likes human ponies (AKA Umas)
+https://media.tenor.com/rdG_xBMCVkkAAAAj/agnes-tachyon-tachyon.gif
 
 
 ## 🌐 Socials:

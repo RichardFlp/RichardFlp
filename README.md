@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/rdG_xBMCVkkAAAAj/agnes-tachyon-tachyon.gif" width="100%" />
+<img src="https://media.tenor.com/rdG_xBMCVkkAAAAj/agnes-tachyon-tachyon.gif" width="25%" />
 
 # 💫 About Me:
 17-year-old developer from Armenia building random things on the internet.

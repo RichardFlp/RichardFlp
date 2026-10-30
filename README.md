@@ -3,7 +3,7 @@
 
 I like making software, experimenting with new technologies, breaking things, and occasionally making them work again.
 
-Also a huge fan of Uma Musume.
+Also a huge fan of web dev
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@richard.flpp) 

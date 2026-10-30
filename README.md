@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/rdG_xBMCVkkAAAAj/agnes-tachyon-tachyon.gif" width="200" />
-  <img src="https://media.tenor.com/cMy7nQyPGpoAAAAM/uma-musume-manhattan-cafe.gif" width="200" />
-  <img src="https://media1.tenor.com/m/2cqBnHd5FpwAAAAC/speed-wower.gif" width="200" />
-</p>
-
 # 💫 About Me:
 17-year-old developer from Armenia building random things on the internet.
 
